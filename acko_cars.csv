@@ -1,0 +1,299 @@
+Brand,Model,Body_Type,variant,No.of Seats,Price,Fuel_Type,location,gearbox_Type
+Hyundai,Creta,SUV,1.5 E,5 Seater,₹13.01 L,Petrol,Delhi,Manual
+Hyundai,Venue,SUV,1.2 E,5 Seater,₹9.06 L,Petrol,Delhi,Manual
+Kia,Sonet,SUV,1.2 HTE(O),5 Seater,₹9.50 L,Petrol,Delhi,Manual
+Kia,Syros,SUV,1.0 HTK Turbo,5 Seater,₹10.60 L,Petrol,Delhi,Manual
+Maruti Suzuki,Suzuki Baleno (2022-2025),Hatchback,1.2 Sigma,5 Seater,₹7.58 L,Petrol,Delhi,Manual
+Maruti Suzuki,Suzuki Brezza,SUV,LXi,5 Seater,₹9.76 L,Petrol,Delhi,Manual
+Maruti Suzuki,Suzuki Grand Vitara,SUV,Sigma,5 Seater,₹13.11 L,Petrol,Delhi,Manual
+Mahindra,XUV700,SUV,2.2 AX7 Luxury Pack 6 STR Diesel,7 Seater,₹27.44 L,Diesel,Delhi,Manual
+Mahindra,Scorpio-N,SUV,2.0 Z2 Petrol (E),7 Seater,₹16.89 L,Petrol,Delhi,Manual
+Tata,Punch,SUV,Pure,5 Seater,₹6.71 L,Petrol,Delhi,Manual
+Tata,Nexon,SUV,1.2 Smart Plus,5 Seater,₹10.02 L,Petrol,Delhi,Manual
+Tata,Curvv EV,SUV,Empowered Plus 55,5 Seater,₹22.35 L,Electric,Delhi,Automatic
+Maruti Suzuki,Suzuki Swift,Hatchback,LXi,5 Seater,₹7.31 L,Petrol,Delhi,Manual
+Hyundai,Grand i10 Nios,Hatchback,1.2 Era,5 Seater,₹6.71 L,Petrol,Delhi,Manual
+Hyundai,Aura,Sedan,1.2 E CNG,5 Seater,₹8.63 L,CNG,Delhi,Manual
+Maruti Suzuki,Suzuki Wagon R,Hatchback,1.0 LXi,5 Seater,₹6.34 L,Petrol,Delhi,Manual
+Maruti Suzuki,Suzuki Celerio,Hatchback,LXi,5 Seater,₹6.23 L,Petrol,Delhi,Manual
+Honda,City,Sedan,1.5 SV-R,5 Seater,₹14.40 L,Petrol,Delhi,Manual
+Renault,Kiger,SUV,RXE,5 Seater,₹7.08 L,Petrol,Delhi,Manual
+Renault,Triber (2019-2025)MPV/MUV7,MPV/MUV,1.0 RXE,7 Seater,₹7.08 L,Petrol,Delhi,Manual
+Renault,Kwid,Hatchback,1.0 RXL(O),5 Seater,₹5.76 L,Petrol,Delhi,Manual
+Tata,Nexon EV,SUV,Fearless 45,5 Seater,₹15.87 L,Electric,Delhi,Automatic
+Hyundai,i20 N Line,Hatchback,N8,5 Seater,₹13.25 L,Petrol,Delhi,Manual
+Toyota,Glanza,Hatchback,V,5 Seater,₹11.10 L,Petrol,Delhi,Manual
+Maruti Suzuki,Suzuki Ertiga (2022-2025)MPV/MUV7,MPV/MUV,VXi,7 Seater,₹11.66 L,Petrol,Delhi,Manual
+Maruti Suzuki,Suzuki XL6 (2022-2025),SUV,Zeta,6 Seater,₹13.61 L,Petrol,Delhi,Manual
+Maruti Suzuki,Suzuki Alto K10,Hatchback,LXi (O) (2 Airbags),5 Seater,₹5.50 L,Petrol,Delhi,Manual
+Hyundai,Venue N-Line,SUV,N6,5 Seater,₹14.15 L,Petrol,Delhi,Manual
+Hyundai,Tucson,SUV,2.0 Platinum AT Petrol,5 Seater,₹34.14 L,Petrol,Delhi,Automatic
+Maruti Suzuki,Suzuki EecoMinivan/Van7,Minivan/Van,5 STR STD,7 Seater,₹6.43 L,Petrol,Delhi,Manual
+Kia,Carens,SUV,1.5 Premium(O) 7 STR Petrol,7 Seater,₹13.22 L,Petrol,Delhi,Manual
+Toyota,Urban Cruiser Hyryder,SUV,Hybrid G CVT,5 Seater,₹21.84 L,Petrol,Delhi,Automatic
+Honda,Elevate,SUV,SV-R,5 Seater,₹14.03 L,Petrol,Delhi,Manual
+Toyota,Rumion,SUV,S AT Neo Drive,7 Seater,₹14.13 L,Petrol,Delhi,Automatic
+Toyota,Innova Crysta,SUV,GX 7 STR,8 Seater,₹23.79 L,Diesel,Delhi,Manual
+MG,ZS EV,SUV,Executive,5 Seater,₹19.09 L,Electric,Delhi,Automatic
+MG,Hector Plus,SUV,1.5 Select Pro,7 Seater,₹22.22 L,Petrol,Delhi,Manual
+MG,Hector,SUV,1.5 Shine Pro,5 Seater,₹19.81 L,Petrol,Delhi,Manual
+MG,Gloster,SUV,2.0 Sharp 7 STR,7 Seater,₹48.09 L,Diesel,Delhi,Automatic
+MG,Comet EV,Hatchback,Excite,4 Seater,₹9.02 L,Electric,Delhi,Automatic
+MG,Astor,SUV,1.5 Sprint,5 Seater,₹13.35 L,Petrol,Delhi,Manual
+Kia,Seltos,SUV,1.5 HTE (O),5 Seater,₹13.00 L,Petrol,Delhi,Manual
+Skoda,Slavia,Sedan,1.0 Classic,5 Seater,₹12.32 L,Petrol,Delhi,Manual
+Skoda,Kushaq,SUV,1.0 Sportline,5 Seater,₹17.44 L,Petrol,Delhi,Manual
+Hyundai,Exter,SUV,1.2 EX,5 Seater,₹6.73 L,Petrol,Delhi,Manual
+Maruti Suzuki,Suzuki Fronx (2023-2025),SUV,1.2 Sigma,5 Seater,₹8.51 L,Petrol,Delhi,Manual
+Maruti Suzuki,Suzuki Invicto,SUV,Zeta Plus 7 STR,7 Seater,₹29.25 L,Petrol,Delhi,Automatic
+Hyundai,Verna,Sedan,1.5 SX(O) IVT,5 Seater,₹19.09 L,Petrol,Delhi,Automatic
+Tata,Harrier,SUV,Pure Plus S,5 Seater,₹22.14 L,Diesel,Delhi,Manual
+Mahindra,Scorpio Classic,SUV,2.2 S 7STR,7 Seater,₹16.93 L,Diesel,Delhi,Manual
+Hyundai,i20,Hatchback,1.2 Magna Executive,5 Seater,₹8.58 L,Petrol,Delhi,Manual
+Tata,Punch EV,SUV,Adventure LR 3.3,5 Seater,₹13.65 L,Electric,Delhi,Automatic
+Mahindra,XUV400,SUV,EL Pro 39.4 kWh,5 Seater,₹18.74 L,Electric,Delhi,Automatic
+Maruti Suzuki,Suzuki Jimny,SUV,Zeta,4 Seater,₹14.61 L,Petrol,Delhi,Manual
+Mahindra,XUV 3XO,SUV,1.5 MX3,5 Seater,₹13.54 L,Diesel,Delhi,Manual
+Toyota,Urban Cruiser Taisor,SUV,1.2 E,5 Seater,₹8.74 L,Petrol,Delhi,Manual
+Maruti Suzuki,Suzuki Ignis,Hatchback,1.2 Sigma MT,5 Seater,₹6.42 L,Petrol,Delhi,Manual
+Hyundai,Creta N Line,SUV,N8 DCT,5 Seater,₹21.42 L,Petrol,Delhi,Automatic
+Maruti Suzuki,Suzuki S-Presso,SUV,1.0 LXi,5 Seater,₹5.52 L,Petrol,Delhi,Manual
+Volkswagen,Virtus,Sedan,1.0 Comfortline,5 Seater,₹13.40 L,Petrol,Delhi,Manual
+Volkswagen,Taigun,SUV,1.0 Comfortline,5 Seater,₹13.67 L,Petrol,Delhi,Manual
+Mahindra,Bolero,SUV,B6(O),7 Seater,₹13.42 L,Diesel,Delhi,Manual
+Mahindra,Thar,SUV,1.5 LX Hard Top Diesel,4 Seater,₹16.32 L,Diesel,Delhi,Manual
+Tata,Safari,SUV,Smart,7 Seater,₹18.37 L,Diesel,Delhi,Manual
+Toyota,Fortuner Legender,SUV,2.8 4x2 AT,7 Seater,₹53.19 L,Diesel,Delhi,Automatic
+Mahindra,Bolero Neo,SUV,1.5 N4,7 Seater,₹11.91 L,Diesel,Delhi,Manual
+Tata,Curvv,SUV,1.2 Pure Plus,5 Seater,₹13.12 L,Petrol,Delhi,Manual
+Hyundai,IONIQ 5,SUV,RWD,5 Seater,₹47.72 L,Electric,Delhi,Automatic
+Toyota,Fortuner,SUV,2.8 4x2 MT,7 Seater,₹43.61 L,Diesel,Delhi,Manual
+Tata,Tigor,Sedan,XM,5 Seater,₹6.69 L,Petrol,Delhi,Manual
+Tata,Tiago EV,Hatchback,XT MR,5 Seater,₹9.64 L,Electric,Delhi,Automatic
+Tata,Tiago NRG,Hatchback,XZ,5 Seater,₹8.30 L,Petrol,Delhi,Manual
+Honda,Amaze,Sedan,V,5 Seater,₹9.19 L,Petrol,Delhi,Manual
+Mahindra,XEV 9e,SUV,Pack Three,5 Seater,₹33.42 L,Electric,Delhi,Automatic
+Nissan,Magnite,SUV,1.0 Visia,5 Seater,₹7.08 L,Petrol,Delhi,Manual
+Maruti Suzuki,launchMaruti Suzuki Dzire,Sedan,LXi,5 Seater,₹7.74 L,Petrol,Delhi,Manual
+Tata,Tiago,Hatchback,XE,5 Seater,₹5.62 L,Petrol,Delhi,Manual
+Mahindra,BE 6,SUV,Pack Three,5 Seater,₹29.61 L,Electric,Delhi,Automatic
+Mahindra,Thar Roxx,SUV,2.0 MX3 AT,5 Seater,₹18.89 L,Petrol,Delhi,Automatic
+Skoda,Kylaq,SUV,Classic,5 Seater,₹9.50 L,Petrol,Delhi,Manual
+MG,Windsor EV,SUV,Essence,5 Seater,₹17.19 L,Electric,Delhi,Automatic
+Hyundai,Creta Electric,SUV,Smart,5 Seater,₹20.24 L,Electric,Delhi,Automatic
+Hyundai,Alcazar,SUV,Executive,7 Seater,₹17.48 L,Petrol,Delhi,Manual
+Kia,Carens Clavis EVMPV/MUV7,MPV/MUV,HTK Plus,7 Seater,₹18.91 L,Electric,Delhi,Automatic
+Volkswagen,launchVolkswagen Tiguan R-Line,SUV,2.0L TSI,5 Seater,₹56.81 L,Petrol,Delhi,Automatic
+Tata,launchTata Altroz,Hatchback,1.2 Smart,5 Seater,₹7.85 L,Petrol,Delhi,Manual
+Renault,TriberMPV/MUV7,MPV/MUV,Authentic,7 Seater,₹7.25 L,Petrol,Delhi,Manual
+Skoda,launchSkoda Kodiaq,SUV,Sportline,7 Seater,₹54.57 L,Petrol,Delhi,Automatic
+Maruti Suzuki,Suzuki Baleno,Hatchback,1.2 Sigma,5 Seater,₹7.57 L,Petrol,Delhi,Manual
+Citroen,Aircross,SUV,1.2 You,5 Seater,₹9.74 L,Petrol,Delhi,Manual
+Maruti Suzuki,Suzuki ErtigaMPV/MUV7,MPV/MUV,LXi,7 Seater,₹10.15 L,Petrol,Delhi,Manual
+Maruti Suzuki,Suzuki Fronx,SUV,1.2 Delta AGS,5 Seater,₹9.96 L,Petrol,Delhi,Automatic
+Citroen,Basalt,SUV,You,5 Seater,₹9.43 L,Petrol,Delhi,Manual
+Tata,Harrier EV,SUV,Empowered 75,5 Seater,₹28.87 L,Electric,Delhi,Automatic
+Maruti Suzuki,Suzuki XL6,SUV,Alpha AT,6 Seater,₹16.42 L,Petrol,Delhi,Automatic
+Kia,Carens Clavis,SUV,1.5 HTE,6 Seater,₹13.32 L,Petrol,Delhi,Manual
+Citroen,C3,SUV,1.2 Live,5 Seater,₹7.15 L,Petrol,Delhi,Manual
+Toyota,Innova Hycross,SUV,2.0 GX 7 STR CVT,8 Seater,₹23.97 L,Petrol,Delhi,Automatic
+Bentley,Bentayga,SUV,EWB,5 Seater,₹6.76 Cr,Petrol,Delhi,Automatic
+Mercedes-Benz,AMG EQS,Sedan,53 4MATIC Plus,5 Seater,₹2.52 Cr,Electric,Delhi,Automatic
+Mercedes-Benz,EQE,SUV,500 4MATIC,5 Seater,₹1.48 Cr,Electric,Delhi,Automatic
+Mercedes-Benz,EQS,Sedan,580 4MATIC,5 Seater,₹1.70 Cr,Electric,Delhi,Automatic
+Mercedes-Benz,G-Class,SUV,G 400 d AMG Line,5 Seater,₹3.05 Cr,Diesel,Delhi,Automatic
+Mercedes-Benz,GLA,SUV,220d AMG Line 4MATIC,5 Seater,₹65.46 L,Diesel,Delhi,Automatic
+Jeep,Compass,SUV,2.0 Model S (O) Diesel,5 Seater,₹32.99 L,Diesel,Delhi,Manual
+Citroen,E-C3,SUV,Live,5 Seater,₹12.96 L,Electric,Delhi,Automatic
+Mercedes-Benz,GLB,SUV,220d 4MATIC AMG Line,7 Seater,₹85.59 L,Diesel,Delhi,Automatic
+Jeep,Meridian,SUV,2.0 Limited (O) AT Diesel,7 Seater,₹41.46 L,Diesel,Delhi,Automatic
+Citroen,C5 Aircross,SUV,Feel,5 Seater,₹44.38 L,Diesel,Delhi,Automatic
+Mercedes-Benz,Maybach GLS,SUV,600 4MATIC,5 Seater,₹3.88 Cr,Petrol,Delhi,Automatic
+Mercedes-Benz,Maybach S-Class,Sedan,S 680 4MATIC,5 Seater,₹3.98 Cr,Petrol,Delhi,Automatic
+Mercedes-Benz,S-Class,Sedan,S 450 4MATIC,5 Seater,₹2.17 Cr,Petrol,Delhi,Automatic
+BMW,2 Series Gran CoupeCoupe5,Coupe,M Performance Edition,5 Seater,₹52.18 L,Petrol,Delhi,Automatic
+BMW,3 Series Gran LimousineCoupe5,Coupe,330Li M Sport,5 Seater,₹68.62 L,Petrol,Delhi,Automatic
+Lamborghini,HuracanCoupe2,Coupe,Evo AWD,2 Seater,₹4.21 Cr,Petrol,Delhi,Automatic
+Mahindra,Bolero Neo Plus,SUV,P4,9 Seater,₹13.88 L,Diesel,Delhi,Manual
+BMW,i7,Sedan,M70 xDrive,5 Seater,₹2.61 Cr,Electric,Delhi,Automatic
+BMW,iX,SUV,xDrive 40,5 Seater,₹1.26 Cr,Electric,Delhi,Automatic
+BMW,iX1,SUV,xDrive30 M Sport,5 Seater,₹70.01 L,Electric,Delhi,Automatic
+BMW,M2Coupe4,Coupe,3.0 Petrol,4 Seater,₹1.18 Cr,Petrol,Delhi,Automatic
+BMW,M340i,Sedan,xDrive,5 Seater,₹85.88 L,Petrol,Delhi,Automatic
+BMW,M8Coupe4,Coupe,Coupe,4 Seater,₹2.75 Cr,Petrol,Delhi,Automatic
+BMW,X3 M40i,SUV,xDrive,5 Seater,₹99.18 L,Petrol,Delhi,Automatic
+BMW,X4 M40i,SUV,xDrive,5 Seater,₹1.09 Cr,Petrol,Delhi,Automatic
+BMW,X5,SUV,xDrive40i xLine,5 Seater,₹1.12 Cr,Petrol,Delhi,Automatic
+Aston Martin,Martin DBX,SUV,707,5 Seater,₹5.22 Cr,Petrol,Delhi,Automatic
+Aston Martin,Martin VantageCoupe2,Coupe,V8,2 Seater,₹4.50 Cr,Petrol,Delhi,Automatic
+BMW,i5,Sedan,M60 xDrive,5 Seater,₹1.25 Cr,Electric,Delhi,Automatic
+BMW,5 Series,Sedan,530Li M Sport (Titanium Bronze),5 Seater,₹82.66 L,Petrol,Delhi,Automatic
+BYD,Atto 3,SUV,Dynamic,5 Seater,₹25.86 L,Electric,Delhi,Automatic
+BYD,Seal,Sedan,Premium,5 Seater,₹47.26 L,Electric,Delhi,Automatic
+Audi,A8 L,Sedan,Technology,4 Seater,₹1.84 Cr,Petrol,Delhi,Automatic
+Jeep,Wrangler,SUV,Unlimited,5 Seater,₹76.56 L,Petrol,Delhi,Automatic
+Ferrari,296 GTBCoupe2,Coupe,3.0 Petrol,2 Seater,₹6.09 Cr,Petrol,Delhi,Automatic
+Ferrari,296 GTSConvertible2,Convertible,3.0 Petrol,2 Seater,₹7.04 Cr,Petrol,Delhi,Automatic
+Ferrari,F8 TributoCoupe2,Coupe,Berlinetta,2 Seater,₹4.54 Cr,Petrol,Delhi,Automatic
+Ferrari,PortofinoConvertible2-4,Convertible,M,4 Seater,₹3.95 Cr,Petrol,Delhi,Automatic
+Audi,e-tron Sportback,SUV,55,5 Seater,₹1.24 Cr,Electric,Delhi,Automatic
+BMW,Z4Convertible2,Convertible,M 40i,2 Seater,₹1.06 Cr,Petrol,Delhi,Automatic
+Audi,Q3,SUV,Bold Editon,5 Seater,₹63.88 L,Petrol,Delhi,Automatic
+Audi,Q3 Sportback,SUV,Bold Edition,5 Seater,₹65.37 L,Petrol,Delhi,Automatic
+Audi,Q5,SUV,Bold Edition,5 Seater,₹84.61 L,Petrol,Delhi,Automatic
+Mercedes-Benz,AMG GLC43 CoupeCoupe5,Coupe,4MATIC,5 Seater,₹1.28 Cr,Petrol,Delhi,Automatic
+Land Rover,Rover Defender,SUV,90 Carpathian 5.0 Petrol,5 Seater,₹2.49 Cr,Petrol,Delhi,Automatic
+Audi,A6,Sedan,Technology 45 TFSI W/O Matrix,5 Seater,₹75.18 L,Petrol,Delhi,Automatic
+Audi,e-tron,SUV,55 Technology,5 Seater,₹1.29 Cr,Electric,Delhi,Automatic
+Audi,A4,Sedan,Premium 40 TFSI,5 Seater,₹54.00 L,Petrol,Delhi,Automatic
+Land Rover,Rover Range Rover,SUV,SE 4.4 Petrol,7 Seater,₹2.87 Cr,Petrol,Delhi,Automatic
+Audi,Q8 e-tron,SUV,50,5 Seater,₹1.18 Cr,Electric,Delhi,Automatic
+BMW,7 Series,Sedan,740i M Sport,5 Seater,₹2.11 Cr,Petrol,Delhi,Automatic
+Land Rover,Rover Range Rover Sport,SUV,HSE Dynamic 3.0 Diesel,5 Seater,₹1.70 Cr,Diesel,Delhi,Automatic
+Land Rover,Rover Range Rover Velar,SUV,HSE Dynamic 2.0 Petrol,5 Seater,₹1.00 Cr,Petrol,Delhi,Automatic
+Lotus,Eletre,SUV,R,4 Seater,₹3.08 Cr,Electric,Delhi,Automatic
+BMW,X1,SUV,sDrive18d M Sport,5 Seater,₹63.12 L,Diesel,Delhi,Automatic
+Mercedes-Benz,E-Class,Sedan,E 200 Exclusive,5 Seater,₹86.10 L,Petrol,Delhi,Automatic
+Mercedes-Benz,A-Class Limousine,Sedan,200d,5 Seater,₹56.17 L,Diesel,Delhi,Automatic
+McLaren,750SCoupe2,Coupe,Coupe,2 Seater,₹6.66 Cr,Petrol,Delhi,Automatic
+Mercedes-Benz,AMG A45 S,Hatchback,4Matic Plus,5 Seater,₹1.06 Cr,Petrol,Delhi,Automatic
+Mercedes-Benz,AMG C 43,Sedan,4MATIC,5 Seater,₹1.14 Cr,Petrol,Delhi,Automatic
+Mercedes-Benz,EQB,SUV,350 4MATIC,7 Seater,₹82.51 L,Electric,Delhi,Automatic
+Mercedes-Benz,GLC,SUV,220d 4MATIC,5 Seater,₹91.14 L,Diesel,Delhi,Automatic
+Mercedes-Benz,GLS,SUV,450d 4MATIC,7 Seater,₹1.62 Cr,Diesel,Delhi,Automatic
+Porsche,911Coupe2-4,Coupe,S/T,4 Seater,₹4.81 Cr,Petrol,Delhi,Automatic
+Porsche,Cayenne,SUV,Base,4 Seater,₹1.63 Cr,Petrol,Delhi,Automatic
+Porsche,Cayenne CoupeCoupe4,Coupe,Base,4 Seater,₹1.70 Cr,Petrol,Delhi,Automatic
+Porsche,Macan,SUV,Base,5 Seater,₹1.13 Cr,Petrol,Delhi,Automatic
+Porsche,Taycan,Sedan,4S,5 Seater,₹1.99 Cr,Electric,Delhi,Automatic
+Porsche,Taycan Cross Turismo,Sedan,Turbo S,5 Seater,₹2.41 Cr,Electric,Delhi,Automatic
+Rolls-Royce,Cullinan,SUV,SUV,5 Seater,₹8.13 Cr,Petrol,Delhi,Automatic
+Rolls-Royce,Phantom,SUV,Sedan,5 Seater,₹11.11 Cr,Petrol,Delhi,Automatic
+Rolls-Royce,Spectre,SUV,Coupe,4 Seater,₹8.02 Cr,Electric,Delhi,Automatic
+Volvo,C40 Recharge,SUV,E80,5 Seater,₹65.12 L,Electric,Delhi,Automatic
+Mercedes-Benz,AMG GLA35,SUV,4MATIC,5 Seater,₹74.58 L,Petrol,Delhi,Automatic
+Maserati,GranTurismoCoupe4-5,Coupe,Modena,5 Seater,₹3.18 Cr,Petrol,Delhi,Automatic
+Land Rover,Rover Discovery,SUV,HSE R-Dynamic 2.0 Petrol,7 Seater,₹1.22 Cr,Petrol,Delhi,Automatic
+Mercedes-Benz,G-Class Electric,SUV,G 580 Edition One,5 Seater,₹3.13 Cr,Electric,Delhi,Automatic
+Toyota,HiluxPick-Up5,Pick-Up,Black Edition,5 Seater,₹45.56 L,Diesel,Delhi,Automatic
+Aston Martin,Martin DB12Coupe4,Coupe,4.0-litre,4 Seater,₹5.18 Cr,Petrol,Delhi,Automatic
+Mercedes-Benz,Maybach SL 680Convertible2,Convertible,Monogram Series,2 Seater,₹4.80 Cr,Petrol,Delhi,Automatic
+BMW,3 Series LWB,Sedan,330Li M Sport,5 Seater,₹73.31 L,Petrol,Delhi,Automatic
+Lexus,LX,SUV,500d Urban,5 Seater,₹3.58 Cr,Diesel,Delhi,Automatic
+Porsche,718Coupe2,Coupe,Cayman Style Edition,2 Seater,₹1.76 Cr,Petrol,Delhi,Automatic
+Porsche,Macan Turbo EV,SUV,Electric SUV,5 Seater,₹1.76 Cr,Electric,Delhi,Automatic
+Porsche,PanameraCoupe4,Coupe,G3,4 Seater,₹1.94 Cr,Petrol,Delhi,Automatic
+Toyota,Land Cruiser,SUV,ZX Diesel,5 Seater,₹2.70 Cr,Diesel,Delhi,Automatic
+Volvo,XC40 Recharge,SUV,Ultimate AWD,5 Seater,₹59.94 L,Electric,Delhi,Automatic
+Audi,Q7,SUV,Signature Edition,7 Seater,₹1.14 Cr,Petrol,Delhi,Automatic
+Jeep,Grand Cherokee,SUV,Signature Edition AT,5 Seater,₹79.19 L,Petrol,Delhi,Automatic
+Mercedes-Benz,AMG G-Class,SUV,G 63,5 Seater,₹4.12 Cr,Petrol,Delhi,Automatic
+Audi,Q8,SUV,55 TFSI quattro,5 Seater,₹1.35 Cr,Petrol,Delhi,Automatic
+MINI,Countryman Electric,Hatchback,E,5 Seater,₹56.68 L,Electric,Delhi,Automatic
+Mercedes-Benz,EQA,SUV,250 Plus,5 Seater,₹70.32 L,Electric,Delhi,Automatic
+Mercedes-Benz,AMG E53 CabrioletConvertible4,Convertible,4MATIC Plus,4 Seater,₹1.47 Cr,Petrol,Delhi,Automatic
+Mercedes-Benz,AMG S 63 E Performance,Sedan,Edition 1,5 Seater,₹4.29 Cr,Petrol,Delhi,Automatic
+Mercedes-Benz,AMG GLE CoupeCoupe5,Coupe,53 4Matic Plus,5 Seater,₹2.14 Cr,Petrol,Delhi,Automatic
+Mercedes-Benz,GLE,SUV,450d 4MATIC LWB,5 Seater,₹1.37 Cr,Diesel,Delhi,Automatic
+Force Motors,Motors Gurkha,SUV,3 Door (4-Seater),4 Seater,₹19.72 L,Diesel,Delhi,Manual
+Force Motors,Motors Gurkha 5 Door,SUV,7 Seater,7 Seater,₹21.20 L,Diesel,Delhi,Manual
+Isuzu,V-Cross,SUV,Hi-Lander,5 Seater,₹24.84 L,Diesel,Delhi,Manual
+Ferrari,Purosangue,SUV,V12,4 Seater,₹1.20 Cr,Petrol,Delhi,Automatic
+Kia,EV9,SUV,GT-Line AWD,6 Seater,₹1.40 Cr,Electric,Delhi,Automatic
+MINI,Cooper,Hatchback,S,4 Seater,₹51.13 L,Petrol,Delhi,Automatic
+Skoda,Superb,Sedan,L&K,5 Seater,₹62.86 L,Petrol,Delhi,Automatic
+Kia,Carnival,SUV,Limousine Plus,7 Seater,₹76.90 L,Diesel,Delhi,Automatic
+Jaguar,I-PaceCoupe2-5,Coupe,HSE,5 Seater,₹1.29 Cr,Electric,Delhi,Automatic
+BMW,M4,Sedan,Competition,4 Seater,₹1.79 Cr,Petrol,Delhi,Automatic
+BYD,eMax 7,SUV,Premium 6 STR,7 Seater,₹28.85 L,Electric,Delhi,Automatic
+Aston Martin,Martin VanquishCoupe2,Coupe,V12,2 Seater,₹10.11 Cr,Petrol,Delhi,Automatic
+Kia,EV6,SUV,GT Line AWD,5 Seater,₹68.97 L,Electric,Delhi,Automatic
+Audi,RS5Coupe5,Coupe,Sportback,5 Seater,₹1.32 Cr,Petrol,Delhi,Automatic
+Audi,e-tron GT,Sedan,S,5 Seater,₹1.77 Cr,Electric,Delhi,Automatic
+Audi,Q8 Sportback e-tron,Sedan,55,5 Seater,₹1.36 Cr,Electric,Delhi,Automatic
+Audi,S5 SportbackCoupe5,Coupe,3.0 TFSI Quattro,5 Seater,₹89.16 L,Petrol,Delhi,Automatic
+Mercedes-Benz,EQS,SUV,450 4Matic,7 Seater,₹1.34 Cr,Electric,Delhi,Automatic
+Mercedes-Benz,Maybach EQS,SUV,680,5 Seater,₹2.38 Cr,Electric,Delhi,Automatic
+BMW,X3,SUV,xDrive 20d M Sport,5 Seater,₹91.14 L,Diesel,Delhi,Automatic
+BYD,Sealion 7,SUV,Premium,5 Seater,₹52.54 L,Electric,Delhi,Automatic
+Audi,RS Q8 Performance,Hatchback,4.0L TFSI,5 Seater,₹2.91 Cr,Petrol,Delhi,Automatic
+BMW,iX1 LWB,SUV,eDrive20L M Sport,5 Seater,₹51.35 L,Electric,Delhi,Automatic
+BMW,i4,Sedan,eDrive40 M Sport,5 Seater,₹81.06 L,Electric,Delhi,Automatic
+Ferrari,RomaCoupe4,Coupe,Coupe,4 Seater,₹4.24 Cr,Petrol,Delhi,Automatic
+Isuzu,MU-X,SUV,4x4 AT,7 Seater,₹44.19 L,Diesel,Delhi,Automatic
+Jaguar,F-Pace,SUV,S R-Dynamic 2.0 Petrol,5 Seater,₹82.47 L,Petrol,Delhi,Automatic
+McLaren,GTCoupe2,Coupe,Coupe,2 Seater,₹4.20 Cr,Petrol,Delhi,Automatic
+Mercedes-Benz,AMG GT 63 S E Performance,Sedan,Limousine,5 Seater,₹3.72 Cr,Petrol,Delhi,Automatic
+Mercedes-Benz,AMG SL55 RoadsterConvertible4,Convertible,4MATIC Plus,4 Seater,₹2.83 Cr,Petrol,Delhi,Automatic
+Mercedes-Benz,C-Class,Sedan,C 220d,5 Seater,₹69.66 L,Diesel,Delhi,Automatic
+Volvo,EX40,SUV,Plus,5 Seater,₹60.23 L,Electric,Delhi,Automatic
+Maserati,Grecale,SUV,GT,5 Seater,₹1.53 Cr,Petrol,Delhi,Automatic
+BMW,M5,Sedan,Competition,5 Seater,₹2.33 Cr,Petrol,Delhi,Automatic
+Volvo,XC90,SUV,B5 Ultra,7 Seater,₹1.21 Cr,Petrol,Delhi,Automatic
+Volkswagen,Golf GTI,Hatchback,2.0L TSI,5 Seater,₹60.86 L,Petrol,Delhi,Automatic
+Land Rover,Rover Range Rover Evoque,SUV,Autobiography Diesel,5 Seater,₹81.45 L,Diesel,Delhi,Automatic
+Tesla,Model Y,SUV,RWD,5 Seater,₹62.70 L,Electric,Delhi,Automatic
+Mahindra,XUV300,SUV,1.2 W8(O) AMT Sunroof,5 Seater,₹15.53 L,Petrol,Delhi,Automatic
+Maruti Suzuki,Suzuki Alto (2019-2023),Hatchback,LXi(O) CNG,5 Seater,₹5.73 L,CNG,Delhi,Manual
+Maruti Suzuki,Suzuki Ciaz,Sedan,1.5 Zeta AT,5 Seater,₹13.31 L,Petrol,Delhi,Automatic
+Tata,Nexon EV Prime (2020-2023),SUV,XZ Plus LUX Dark Edition,5 Seater,₹18.22 L,Electric,Delhi,Automatic
+Kia,Seltos (2022-2023),SUV,1.4 X Line DCT,5 Seater,₹21.51 L,Petrol,Delhi,Automatic
+Tata,Harrier (2020-2023),SUV,2.0 XTA+ Dark Edition,5 Seater,₹24.44 L,Diesel,Delhi,Automatic
+Toyota,Innova Crysta (2020-2023),SUV,2.4 VX 7 STR Diesel,8 Seater,₹27.91 L,Diesel,Delhi,Manual
+Nissan,Magnite (2020-2024),SUV,XV Turbo CVT Executive,5 Seater,₹10.05 L,Petrol,Delhi,Automatic
+Tata,Nexon (2020-2023),SUV,1.2 XZ Plus Dark Edition Lux,5 Seater,₹14.30 L,Petrol,Delhi,Manual
+Maruti Suzuki,Suzuki Swift (2021-2024),Hatchback,ZXi AMT,5 Seater,₹9.56 L,Petrol,Delhi,Automatic
+Tata,Tiago EV (2022-2025),Hatchback,XZ Plus Long FC,5 Seater,₹12.15 L,Electric,Delhi,Automatic
+Skoda,Kushaq (2021-2023),SUV,1.0 Style TSI AT Anniversary,5 Seater,₹20.32 L,Petrol,Delhi,Automatic
+Hyundai,Aura (2020-2023),Sedan,1.2 SX(O) CRDi,5 Seater,₹10.69 L,Diesel,Delhi,Manual
+Tata,Tiago (2020-2025),Hatchback,XE,5 Seater,₹5.73 L,Petrol,Delhi,Manual
+Tata,Altroz (2020-2025),Hatchback,1.2 XZ,5 Seater,₹9.98 L,Petrol,Delhi,Manual
+Hyundai,Alcazar (2021-2023),SUV,2.0 Signature(O) AT 7 STR Petrol,7 Seater,₹23.88 L,Petrol,Delhi,Automatic
+Tata,Tigor (2020-2025),Sedan,XMA,5 Seater,₹8.31 L,Petrol,Delhi,Automatic
+Kia,Carnival (2020-2023),SUV,Premium 8 Seater,9 Seater,₹30.72 L,Diesel,Delhi,Automatic
+Hyundai,Grand i10 Nios (2019-2023),Hatchback,1.2 Asta Kappa VTVT,5 Seater,₹8.82 L,Petrol,Delhi,Manual
+Hyundai,Creta (2020-2023),SUV,1.4 SX Turbo DCT Petrol,5 Seater,₹21.19 L,Petrol,Delhi,Automatic
+Honda,Jazz (2020-2023),Hatchback,ZX CVT Petrol,5 Seater,₹12.23 L,Petrol,Delhi,Automatic
+Hyundai,Verna (2020-2023),Sedan,1.5 VTVT SX(O) IVT,5 Seater,₹17.14 L,Petrol,Delhi,Automatic
+Maruti Suzuki,Suzuki Dzire (2020-2024),Sedan,VXi,5 Seater,₹8.54 L,Petrol,Delhi,Manual
+Kia,Sonet (2020-2023),SUV,1.5 HTX AT,5 Seater,₹15.14 L,Diesel,Delhi,Automatic
+Hyundai,New i20 (2020-2023),Hatchback,1.2 Magna Kappa,5 Seater,₹8.58 L,Petrol,Delhi,Manual
+Mahindra,MarazzoMPV/MUV7-8,MPV/MUV,M4 Plus 8 STR,8 Seater,₹18.93 L,Diesel,Delhi,Manual
+Kia,Sonet (2023-2024),SUV,1.0 Aurochs Edition iMT,5 Seater,₹13.82 L,Petrol,Delhi,Manual
+Honda,City (2020-2023),Sedan,1.5 V Diesel,5 Seater,₹15.89 L,Diesel,Delhi,Manual
+Honda,WR-V (2020-2023),SUV,SV MT Diesel,5 Seater,₹13.61 L,Diesel,Delhi,Manual
+Maruti Suzuki,Suzuki S-Cross (2020-2022),SUV,Delta,5 Seater,₹11.76 L,Petrol,Delhi,Manual
+Kia,Seltos (2023-2023),SUV,1.5 HTK Plus,5 Seater,₹15.47 L,Petrol,Delhi,Manual
+Tata,Nexon EV Max (2022-2023),SUV,XZ Plus Lux 3.3 KW Jet,5 Seater,₹19.68 L,Electric,Delhi,Automatic
+Hyundai,i20 N Line (2021-2023),Hatchback,1.0 N8 iMT,5 Seater,₹13.22 L,Petrol,Delhi,Manual
+Honda,Amaze (2021-2024),Sedan,1.2 VX MT Petrol,5 Seater,₹10.22 L,Petrol,Delhi,Manual
+Kia,Carens (2022-2023),SUV,1.5 Prestige 7 STR Petrol,7 Seater,₹13.48 L,Petrol,Delhi,Manual
+Tata,Tiago NRG (2021-2025),Hatchback,1.2 XT,5 Seater,₹7.49 L,Petrol,Delhi,Manual
+Skoda,Slavia (2022-2023),Sedan,1.0 Style TSI AT,5 Seater,₹18.81 L,Petrol,Delhi,Automatic
+Volkswagen,Taigun (2021-2023),SUV,1.0 Comfortline TSI,5 Seater,₹13.69 L,Petrol,Delhi,Manual
+Skoda,Rapid TSI (2021-2023),Sedan,Matte Limited Edition AT,5 Seater,₹15.88 L,Petrol,Delhi,Automatic
+Skoda,Superb (2021-2023),Sedan,2.0 Sportline TSI AT,5 Seater,₹40.28 L,Petrol,Delhi,Automatic
+Skoda,Kodiaq (2021-2025),SUV,L&K,7 Seater,₹46.66 L,Petrol,Delhi,Automatic
+Skoda,Octavia (2021-2023),Sedan,2.0 L&K TSI,5 Seater,₹35.91 L,Petrol,Delhi,Automatic
+Volkswagen,Virtus (2022-2023),Sedan,1.0 Comfortline TSI,5 Seater,₹13.53 L,Petrol,Delhi,Manual
+Hyundai,Venue (2022-2023),SUV,1.2 SX,5 Seater,₹12.75 L,Petrol,Delhi,Manual
+MG,Astor (2021-2024),SUV,1.5 Style,5 Seater,₹12.65 L,Petrol,Delhi,Manual
+MG,Hector Plus (2021-2023),SUV,2.0 Style Turbo 7 STR,7 Seater,₹20.29 L,Diesel,Delhi,Manual
+MG,Hector (2021-2023),SUV,1.5 Shine Turbo CVT,5 Seater,₹20.00 L,Petrol,Delhi,Automatic
+Hyundai,Alcazar (2023-2024),SUV,1.5 Platinum(O) DCT 6 STR Petrol,7 Seater,₹23.26 L,Petrol,Delhi,Automatic
+Tata,Tigor EV,Sedan,XZ Plus LUX,5 Seater,₹14.70 L,Electric,Delhi,Automatic
+Maruti Suzuki,Suzuki Grand Vitara (2022-2025),SUV,Zeta CNG,5 Seater,₹17.26 L,CNG,Delhi,Manual
+Hyundai,Creta (2023-2024),SUV,1.5 SX(O) IVT Petrol Knight,5 Seater,₹20.94 L,Petrol,Delhi,Automatic
+Tata,Harrier (2023-2023),SUV,2.0 XMS,5 Seater,₹21.69 L,Diesel,Delhi,Manual
+MG,ZS EV (2021-2024),SUV,Excite,5 Seater,₹21.30 L,Electric,Delhi,Automatic
+Citroen,C3 Aircross,SUV,1.2 Max Vibe Pack AT,7 Seater,₹16.27 L,Petrol,Delhi,Automatic
+Volkswagen,Tiguan,SUV,2.0 Elegance TSI AT,5 Seater,₹41.41 L,Petrol,Delhi,Automatic
+BMW,X3 (2023-2025),SUV,xDrive20d M Sport,5 Seater,₹83.84 L,Diesel,Delhi,Automatic
+Aston Martin,Martin DB11Coupe4,Coupe,Evolution,4 Seater,₹4.34 Cr,Petrol,Delhi,Automatic
+Audi,Q7 (2022-2024),SUV,Premium Plus 55 TFSI,7 Seater,₹1.00 Cr,Petrol,Delhi,Automatic
+BMW,M4 Competition (2022-2024),Sedan,M xDrive Coupe,4 Seater,₹1.99 Cr,Petrol,Delhi,Automatic
+Kia,EV6 (2022-2025),SUV,GT Line AWD,5 Seater,₹68.05 L,Electric,Delhi,Automatic
+BYD,e6 (2022-2024),SUV,GL,5 Seater,₹30.31 L,Electric,Delhi,Automatic
+MINI,Countryman,SUV,Cooper S JCW Inspired,5 Seater,₹54.73 L,Petrol,Delhi,Automatic
+Audi,RS Q8 (2020-2025),SUV,4.0L TFSI,5 Seater,₹2.51 Cr,Petrol,Delhi,Automatic
+Land Rover,Rover Range Rover Evoque (2024-2025),SUV,SE R-Dynamic Diesel,5 Seater,₹78.73 L,Diesel,Delhi,Automatic
